@@ -18,3 +18,14 @@ body {
     height: 200px;
     border-radius: 45%;
 }
+.ladoDer{
+    background-color: rgb(249, 134, 99);
+    width: 60%;
+    border-top-right-radius: 50px;
+}
+.sobre-mi {
+    text-align: center;
+    width: 100%;
+
+}
+
