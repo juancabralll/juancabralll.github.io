@@ -2,6 +2,17 @@ body {
     background-color: #472d30;
 }
 
+.ladoIzq {
+    background-color: #723d46;
+    height: 100%;
+    width: 40%;
+    border-top-left-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+}
+
 .perfil { 
     width: 200px;
     height: 200px;
