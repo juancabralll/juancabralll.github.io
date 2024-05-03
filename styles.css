@@ -19,6 +19,7 @@ body {
     width: 200px;
     height: 200px;
     border-radius: 45%;
+    padding-top: 5px;
 }
 .ladoDer{
     background-color: rgb(249, 134, 99);
@@ -45,7 +46,8 @@ body {
     text-align: center;
     width: 100%;
 }
-.emprendimiento {
+.emprendimiento { 
+    display: block;
     text-align: center;
     width: 100%;
 }
@@ -53,9 +55,13 @@ span{
     font-weight: bold;
 }
 li {
+    display: flex;
     list-style-position: inside;
+    margin: 15px;
 }
 
 a{
     color: #ffe1a8;
+    border: 5px solid #ffe1a8 ;
+background-color: #723d46;
 }
