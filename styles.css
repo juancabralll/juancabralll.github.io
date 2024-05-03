@@ -1,10 +1,12 @@
 body {
     background-color: #472d30;
+    display: flex;
+    margin: 30px;
+    font-family: 'Courier New';
 }
 
 .ladoIzq {
     background-color: #723d46;
-    height: 100%;
     width: 40%;
     border-top-left-radius: 50px;
     display: flex;
@@ -43,4 +45,17 @@ body {
     text-align: center;
     width: 100%;
 }
+.emprendimiento {
+    text-align: center;
+    width: 100%;
+}
+span{
+    font-weight: bold;
+}
+li {
+    list-style-position: inside;
+}
+
+a{
+    color: #ffe1a8;
 }
